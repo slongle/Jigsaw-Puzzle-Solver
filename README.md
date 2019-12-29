@@ -1,13 +1,13 @@
-64# Jigsaw Puzzle Solver
+# Jigsaw Puzzle Solver
 ## Introduction
 This project is for [Huawei Honorcup Marathon 2](http://codeforces.com/blog/entry/70047).  
-There are a set of images , each has a size of 512×512 pixels. Divide each image into $m×m$ square fragments of $p×p(p=64/32/16)$ pixels $(m=512/p)$ and rearrange them to restore the original image.  
+There are a set of images , each has a size of 512×512 pixels. Divide each image into m×m square fragments of p×p (p=64/32/16) pixels (m=512/p) and rearrange them to restore the original image.  
 ## Result
-![](https://postimg.cc/PLB2RWTN)  
+![](https://i.postimg.cc/85C9s4Yd/1.png)  
 64x64  
-![](https://postimg.cc/p99sCGNg)  
+![](https://i.postimg.cc/g0s1YQgk/2.png)  
 32x32  
-![](https://postimg.cc/68bHdsPr)  
+![](https://i.postimg.cc/43srRsbS/3.png)  
 16x16
 ## Compile
 This project are all .h files except main.cpp, so you can build it easily like this  
