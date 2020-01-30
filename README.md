@@ -10,7 +10,7 @@ There are a set of images , each has a size of 512×512 pixels. Divide each imag
 ![](https://i.postimg.cc/43srRsbS/3.png)  
 16x16
 ## Compile
-This project are all .h files except main.cpp, so you can build it easily like this  
+This project is all .h files except main.cpp, so you can build it easily like this  
 ```bash
 > g++ -O2 -o jigsaw src/main.cpp -std=c++17   
 ```
